@@ -1,0 +1,49 @@
+\documentclass{article}
+
+\usepackage{graphicx}
+
+\begin{document}
+
+
+
+
+
+\title{introduction to \LateX{}}
+
+\title{conclusion}
+
+\author{The Parof}
+
+
+
+\maketitle
+
+\begin{abstract}
+
+This is the Document for my Project Information Database
+
+\end{abstract}
+
+
+
+
+
+
+
+\section{Introduction}
+
+THis is the Architectural Blueprint for my PIM DB.
+
+\subsection{JavaScript Coding Design}
+
+\subsubsection{JS Objects used in the Application}
+
+\section{conclusion}
+
+I REALLY LOVE LATEX!!!!
+
+
+
+
+
+\end{document}
